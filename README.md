@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **vedant.jadhav1928@yahoo.com**
 
-- ⚡ Fun fact **I think I am the Best**
+- ⚡ Fun fact **I think I am Awesome**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
