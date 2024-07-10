@@ -1,4 +1,7 @@
+<img align="center" src="https://imgs.search.brave.com/gLftJQaySWe99CLourY92h_3VRfp8cRCmRKKXF1WLVU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naXRo/dWIuY29tL3NhYWRl/Z2hpL3NhYWRlZ2hp/L3Jhdy9tYXN0ZXIv/ZGluby5naWY.gif" alt="header" height="280" width="1250" />
+
 <h1 align="center">Hey! Whats'up 👋, I'm Vedant Jadhav</h1>
+<img align="right" alt="Coding" height=240, width="500" src="https://imgs.search.brave.com/IE2_M-Ha_6TPuT1_Y057JazrNxaGlRBCknfbLuHH0Kk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvc3R1ZHlp/bmctZHVyaW5nLXdp/bmR5LWRheXMtcXgw/d2dnamJzbDJ4dHN2/dS5naWY.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darklord1902&label=Profile%20views&color=0e75b6&style=flat" alt="darklord1902" /> </p>
 
 - 🌱 I’m currently learning **more about python**
